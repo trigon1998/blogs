@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text on VanY.Ng</title>
+    <link>https://trigon1998.github.io/blogs/categories/text/</link>
+    <description>Recent content in text on VanY.Ng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://trigon1998.github.io/blogs/categories/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://trigon1998.github.io/blogs/p/hello-world/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://trigon1998.github.io/blogs/p/hello-world/</guid>
+      <description>Hello world Vì sao lại là hello world? Vì đó là câu lệnh đầu tiên tui (có thể là bạn nữa) được học (bằng pascal chăng)
+Nó sẽ kiểu như thế này:
+program HelloFreetuts; begin writeln (&#39;Welcome to freetuts.net&#39;); end. Cái này tôi copy trên mạng thôi 🙂 Post này dùng để test xem cái web tôi làm có đẩy bài lên được không thôi 🥲</description>
+    </item>
+    
+  </channel>
+</rss>
