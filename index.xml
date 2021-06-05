@@ -13,14 +13,14 @@
         
         <guid>https://trigon1998.github.io/blogs/p/hello-world/</guid>
         <description>&lt;img src="https://trigon1998.github.io/blogs/p/hello-world/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Hello World!" /&gt;&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
-&lt;p&gt;Vì sao lại là hello world? Vì đó là câu lệnh đầu tiên tui (có thể là bạn nữa) được học (bằng pascal chăng)&lt;/p&gt;
+&lt;p&gt;Vì sao lại là hello world? Vì đó là câu lệnh đầu tiên tui (có thể là bạn nữa) được học (bằng pascal chăng).&lt;/p&gt;
 &lt;p&gt;Nó sẽ kiểu như thế này:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-pascal&#34; data-lang=&#34;pascal&#34;&gt;program HelloFreetuts;
 begin
   writeln (&#39;Welcome to freetuts.net&#39;);
 end.
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Cái này tôi copy trên mạng thôi 🙂
-Post này dùng để test xem cái web tôi làm có đẩy bài lên được không thôi 🥲&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Post này dùng để test xem cái web tôi làm có đẩy bài lên được không thôi 🥲&lt;/p&gt;
+&lt;p&gt;Vậy thôi, sờ tay tun để đọc được thêm nhiều điều nhảm nhí nhé. Bye&lt;/p&gt;
 </description>
         </item>
         
