@@ -12,15 +12,29 @@
         <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
         
         <guid>https://trigon1998.github.io/blogs/p/hello-world/</guid>
-        <description>&lt;img src="https://trigon1998.github.io/blogs/p/hello-world/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Hello World!" /&gt;&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;
-&lt;p&gt;Vì sao lại là hello world? Vì đó là câu lệnh đầu tiên tui (có thể là bạn nữa) được học (bằng pascal chăng).&lt;/p&gt;
+        <description>&lt;img src="https://trigon1998.github.io/blogs/p/hello-world/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Hello World!" /&gt;&lt;h3 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h3&gt;
+&lt;p&gt;Vì sao lại là &lt;code&gt;Hello World!&lt;/code&gt;? Vì đó là câu lệnh đầu tiên tui (có thể là bạn nữa) được học (bằng &lt;code&gt;pascal&lt;/code&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; chăng).&lt;/p&gt;
 &lt;p&gt;Nó sẽ kiểu như thế này:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-pascal&#34; data-lang=&#34;pascal&#34;&gt;program HelloFreetuts;
+&lt;pre&gt;&lt;code class=&#34;language-pascal&#34; data-lang=&#34;pascal&#34;&gt;program HelloWorld;
 begin
-  writeln (&#39;Welcome to freetuts.net&#39;);
+  writeln (&#39;Hello World!&#39;);
 end.
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Post này dùng để test xem cái web tôi làm có đẩy bài lên được không thôi 🥲&lt;/p&gt;
-&lt;p&gt;Vậy thôi, sờ tay tun để đọc được thêm nhiều điều nhảm nhí nhé. Bye&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Post này dùng để test&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; xem cái web tôi làm có đẩy bài lên được không thôi 🥲.&lt;/p&gt;
+&lt;p&gt;Vậy thôi, sờ tay tun để đọc được thêm nhiều điều nhảm nhí nhé. Bye.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Photo by Helena Hertz on Unsplash.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Cái web cùi này mình build lên không phải để học 300 bài code thiếu nhi đâu yên tâm 🥲 Mình học trường kinh tế mà.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;À mà sẵn khoe luôn, web này có auto &lt;code&gt;dảk mode&lt;/code&gt; theo khung giờ, hoặc có thể chủ động on/off trong &lt;code&gt;nav bar&lt;/code&gt;. Ban đầu định thêm phần bình luận dưới mỗi bài nữa nhưng chắc k ai đọc đâu nên lại thôi, tốn mấy ngày mò mẫm code&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
         </item>
         
